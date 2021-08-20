@@ -43,20 +43,8 @@ Accept with minor revisions
 
 Submitted 
 ======
-	* Paper on group lasso for quantile regression.
-	* On the use of minimum penalties in statistical learning. 
-	* Using Bayesian Networks to detect PTSD.
-	* Work on variability in beta regression model selection. 
+* Paper on group lasso for quantile regression.
+* On the use of minimum penalties in statistical learning. 
+* Using Bayesian Networks to detect PTSD.
+* Work on variability in beta regression model selection. 
 
-
-<--
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
