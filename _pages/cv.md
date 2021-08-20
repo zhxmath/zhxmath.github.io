@@ -30,7 +30,7 @@ Work experience
 	* Assistant Manager in 1999 and 2000.
 	* Provided food and drink to thirsty and hungry swimmers and their parents. 
 
-<!---
+<!--
 Skills
 ======
 * Skill 1
