@@ -10,14 +10,14 @@ author_profile: true
 Published/Accepted
 ======
 * 2021
-	* Price, B.S., Allenbrand, C. and Sherwood, B. Detecting Clusters in Multivariate Regression. WIREs Computational Statistics.
-	* Price, B.S., Molstad, A.J. and Sherwood, B. Estimating Multiple Precision Matrices with Cluster Fusion Regularization.  Journal of Computational and Graphical Statistics, 1-30. 
+	* <a hrefe="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1551">Price, B.S., Allenbrand, C. and Sherwood, B. Detecting Clusters in Multivariate Regression. WIREs Computational Statistics.</a>
+	* <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1874963?journalCode=ucgs20">Price, B.S., Molstad, A.J. and Sherwood, B. Estimating Multiple Precision Matrices with Cluster Fusion Regularization.  Journal of Computational and Graphical Statistics, 1-30.</a>
 * 2020
 	* Sherwood, B., Molstad, A.J. and Singha, S. (2020) Asymptotic properties of concave L1-norm group penalties. Statistics and Probability Letters, 157. 
 * 2019 
 	* Nothing!
 * 2018
-	*Wang, L., Zhou, Y., Song, R. and Sherwood, B. (2018) Quantile-optimal treatment regimes. Journal of the American Statistical Association, 113, 1243-1254.
+	* Wang, L., Zhou, Y., Song, R. and Sherwood, B. (2018) Quantile-optimal treatment regimes. Journal of the American Statistical Association, 113, 1243-1254.
 	* Price, B. S. and Sherwood, B. (2018) A Cluster Elastic Net for Multivariate Regression . Journal of Machine Learning Research, 18, 1-39.
 	* Hong, X., Sherwood, B., Ladd-Acosta, C., Peng, S., Ji, H., Hao, K., Burd, I., Bartell, T.R., Wang, G., Tsai, H.J., Liu, X., Ji, Y., Wahl, A., Caruso, D., Lee-Parritz, A., Zuckerman, B. and Wang, X. (2018) Genome-wide DNA methylation associations with spontaneous preterm birth in US blacks: findings in maternal and cord blood samples. Epigenetics, 13:2, 163-172.
 * 2017 
@@ -44,7 +44,7 @@ Accept with minor revisions
 Submitted 
 ======
 * Paper on group lasso for quantile regression.
-* On the use of minimum penalties in statistical learning. 
+* <a href="https://arxiv.org/pdf/2106.05172.pdf">On the use of minimum penalties in statistical learning.</a>
 * Using Bayesian Networks to detect PTSD.
 * Work on variability in beta regression model selection. 
 
