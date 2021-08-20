@@ -17,15 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2006 to May 2009: Systems Administrator at <a href="www.rise.org">Rise, Inc.</a>
+  * Transitioned company to new database that tracked all program participants.
+  * Consulted staff on data collection and analysis required for grants and government reports.
+  
+* November 2004 to February 2006: IT Specialist at Genesis II for Families (now <a href="https://familywiseservices.org/">FamilyWise</a>)
+  * Sole point of contact for all technological issues.
+  * Wrote grants for funding of technology needs.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2003 to July 2004: AmeriCorps VISTA at <a href="www.uen.org">Utah Education Network</a>
+	* Managed program that donated used computer equipment to schools in Utah.
+	* Created program providing computer training for refugees living in Salt Lake City.
   
 * Summers of 1997-2000: Concession Stand Attendant at Hidden Creek Aquapark
 	* Assistant Manager in 1999 and 2000.
