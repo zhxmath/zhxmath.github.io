@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathematics and Computer Science, Macalester College, 2003
+* Ph.D in Statistics, University of Minnesota, 2014
 
 Work experience
 ======
@@ -27,6 +26,11 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+* Summers of 1997-2000: Concession Stand Attendant at Hidden Creek Aquapark
+	* Assistant Manager in 1999 and 2000.
+	* Provided food and drink to thirsty and hungry swimmers or their parents. 
+
+<!---
 Skills
 ======
 * Skill 1
@@ -57,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
