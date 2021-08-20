@@ -28,7 +28,7 @@ Work experience
   
 * Summers of 1997-2000: Concession Stand Attendant at Hidden Creek Aquapark
 	* Assistant Manager in 1999 and 2000.
-	* Provided food and drink to thirsty and hungry swimmers or their parents. 
+	* Provided food and drink to thirsty and hungry swimmers and their parents. 
 
 <!---
 Skills
