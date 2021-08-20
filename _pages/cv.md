@@ -29,7 +29,7 @@ Work experience
 	* Managed program that donated used computer equipment to schools in Utah.
 	* Created program providing computer training for refugees living in Salt Lake City.
   
-* Summers of 1997-2000: Concession Stand Attendant at Hidden Creek Aquapark
+* Summers of 1997-2000: Concession Stand Attendant at <a href="https://www.pdhp.org/hidden-creek-aquatic-park-outdoor-pool/">Hidden Creek Aquapark</a>
 	* Assistant Manager in 1999 and 2000.
 	* Provided food and drink to thirsty and hungry swimmers and their parents. 
 
