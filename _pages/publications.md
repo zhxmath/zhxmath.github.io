@@ -9,6 +9,8 @@ author_profile: true
 
 Published/Accepted
 ======
+* 2022
+	* Sherwood, B. and Maidman, A. <a href="https://jmlr.org/papers/volume23/19-697/19-697.pdf">Additive nonlinear quantile regression in ultra-high dimension</a>. Journal of Machine Learning Research, 23, 1-47.
 * 2021
 	* Price, B.S., Allenbrand, C. and Sherwood, B. <a href="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1551">Detecting Clusters in Multivariate Regression</a>. WIREs Computational Statistics.
 	* Price, B.S., Molstad, A.J. and Sherwood, B. <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1874963?journalCode=ucgs20">Estimating Multiple Precision Matrices with Cluster Fusion Regularization.</a>  Journal of Computational and Graphical Statistics, 1-30.
@@ -39,12 +41,12 @@ Published/Accepted
 
 Accept with minor revisions
 ======
-* Additive nonlinear quantile regression in ultra-high dimension with Adam Maidman, at Journal of Machine Learning Research. 
+* Beta Regression paper on variability from model selection with Corban Allenbrand, at Annals of Applied Statistics. 
 
 Submitted 
 ======
 * Paper on group lasso for quantile regression.
 * <a href="https://arxiv.org/pdf/2106.05172.pdf">On the use of minimum penalties in statistical learning.</a>
 * Using Bayesian Networks to detect PTSD.
-* Work on variability in beta regression model selection. 
+* Penalized method for combining logistic regression and naive bayes. 
 
