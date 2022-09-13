@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the <a href="https://business.ku.edu/">University of Kansas School of Business</a>. Statistics is my research area and I am interested in developing flexible and robust models for high-dimensional data. I received a PhD from the School of Statistics in 2014 at the University of Minnesota. My Thesis advisor was <a href="http://users.stat.umn.edu/~wangx346/">Lan Wang</a>.  In my dissertation, <a href="https://conservancy.umn.edu/handle/11299/163910">quantile regression model selection</a>, I examined model selection and estimation for quantile regression. I examined
+I am an associate professor at the <a href="https://business.ku.edu/">University of Kansas School of Business</a>. Statistics is my research area and I am interested in developing flexible and robust models for high-dimensional data. I received a PhD from the School of Statistics in 2014 at the University of Minnesota. In my dissertation, <a href="https://conservancy.umn.edu/handle/11299/163910">quantile regression model selection</a>, I examined model selection and estimation for quantile regression. I examined
 * Partial Linear Models
 * Models with missing covariates
 * High-dimensional data, including p >> n case (more predictors than samples).  
