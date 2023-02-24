@@ -10,9 +10,11 @@ author_profile: true
 Published/Accepted
 ======
 * 2022
+	* Allenbrand, C. and Sherwood, B. <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Model-selection-uncertainty-and-stability-in-beta-regression-models/10.1214/22-AOAS1647.short?tab=ArticleFirstPage">Model selection uncertainty and stability in beta regression models: A study of bootstrap-based model averaging with an empirical application to clickstream data</a>. Annals of Applied Statistics, 17(1), 680-710.
+	* Sherwood, B. and Li, S. <a href="https://link.springer.com/article/10.1007/s11222-022-10135-w"> Quantile regression feature selection and estimation with grouped variables using Huber approximation</a>. Statistics and Computing, 32, 75. 
+	* Price, B.S., Allenbrand, C. and Sherwood, B. <a href="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1551">Detecting Clusters in Multivariate Regression</a>. WIREs Computational Statistics.
 	* Sherwood, B. and Maidman, A. <a href="https://jmlr.org/papers/volume23/19-697/19-697.pdf">Additive nonlinear quantile regression in ultra-high dimension</a>. Journal of Machine Learning Research, 23, 1-47.
 * 2021
-	* Price, B.S., Allenbrand, C. and Sherwood, B. <a href="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1551">Detecting Clusters in Multivariate Regression</a>. WIREs Computational Statistics.
 	* Price, B.S., Molstad, A.J. and Sherwood, B. <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1874963?journalCode=ucgs20">Estimating Multiple Precision Matrices with Cluster Fusion Regularization.</a>  Journal of Computational and Graphical Statistics, 1-30.
 * 2020
 	* Sherwood, B., Molstad, A.J. and Singha, S. (2020) <a href="https://www.sciencedirect.com/science/article/pii/S0167715219302779?casa_token=kLrf_B1g6sMAAAAA:5zG5yo84xUwD_acypuhn9TahF_h-MC_SAcaRR6gieU7oVA5Khx8IdbGFief3ypxwzG0Yy7oye1Y">Asymptotic properties of concave L1-norm group penalties.</a> Statistics and Probability Letters, 157.
@@ -39,14 +41,11 @@ Published/Accepted
 * 2013
 	* Sherwood, B., Wang, L. and Zhou, A. (2013). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.5883">Weighted quantile regression for analyzing health care cost data with missing covariates.</a> Statistics in Medicine, 32, 4967-4979.
 
-Accept with minor revisions
-======
-* Beta Regression paper on variability from model selection with Corban Allenbrand, at Annals of Applied Statistics. 
 
 Submitted 
 ======
-* Paper on group lasso for quantile regression.
 * <a href="https://arxiv.org/pdf/2106.05172.pdf">On the use of minimum penalties in statistical learning.</a>
 * Using Bayesian Networks to detect PTSD.
 * Penalized method for combining logistic regression and naive bayes. 
+* Partially Linear quantile regression for longitudinal data with dropouts. 
 
