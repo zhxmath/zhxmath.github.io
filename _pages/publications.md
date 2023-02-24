@@ -9,8 +9,9 @@ author_profile: true
 
 Published/Accepted
 ======
-* 2022
+* 2023
 	* Allenbrand, C. and Sherwood, B. <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Model-selection-uncertainty-and-stability-in-beta-regression-models/10.1214/22-AOAS1647.short?tab=ArticleFirstPage">Model selection uncertainty and stability in beta regression models: A study of bootstrap-based model averaging with an empirical application to clickstream data</a>. Annals of Applied Statistics, 17(1), 680-710.
+* 2022
 	* Sherwood, B. and Li, S. <a href="https://link.springer.com/article/10.1007/s11222-022-10135-w"> Quantile regression feature selection and estimation with grouped variables using Huber approximation</a>. Statistics and Computing, 32, 75. 
 	* Price, B.S., Allenbrand, C. and Sherwood, B. <a href="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1551">Detecting Clusters in Multivariate Regression</a>. WIREs Computational Statistics.
 	* Sherwood, B. and Maidman, A. <a href="https://jmlr.org/papers/volume23/19-697/19-697.pdf">Additive nonlinear quantile regression in ultra-high dimension</a>. Journal of Machine Learning Research, 23, 1-47.
