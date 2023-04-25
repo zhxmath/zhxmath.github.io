@@ -10,13 +10,14 @@ author_profile: true
 Published/Accepted
 ======
 * 2023
-	* Allenbrand, C. and Sherwood, B. <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Model-selection-uncertainty-and-stability-in-beta-regression-models/10.1214/22-AOAS1647.short?tab=ArticleFirstPage">Model selection uncertainty and stability in beta regression models: A study of bootstrap-based model averaging with an empirical application to clickstream data</a>. Annals of Applied Statistics, 17(1), 680-710.
+	* Maidman, A., Wang, L., Zhou, X-H. and Sherwood, B. (2023) <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9745">Quantile partially linear additive model for data with dropouts and an application to modeling cognitive decline</a>. Statistics in Medicine, 1-17.  
+	* Allenbrand, C. and Sherwood, B. (2023) <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Model-selection-uncertainty-and-stability-in-beta-regression-models/10.1214/22-AOAS1647.short?tab=ArticleFirstPage">Model selection uncertainty and stability in beta regression models: A study of bootstrap-based model averaging with an empirical application to clickstream data</a>. Annals of Applied Statistics, 17(1), 680-710.
 * 2022
-	* Sherwood, B. and Li, S. <a href="https://link.springer.com/article/10.1007/s11222-022-10135-w"> Quantile regression feature selection and estimation with grouped variables using Huber approximation</a>. Statistics and Computing, 32, 75. 
-	* Price, B.S., Allenbrand, C. and Sherwood, B. <a href="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1551">Detecting Clusters in Multivariate Regression</a>. WIREs Computational Statistics.
-	* Sherwood, B. and Maidman, A. <a href="https://jmlr.org/papers/volume23/19-697/19-697.pdf">Additive nonlinear quantile regression in ultra-high dimension</a>. Journal of Machine Learning Research, 23, 1-47.
+	* Sherwood, B. and Li, S. (2022) <a href="https://link.springer.com/article/10.1007/s11222-022-10135-w"> Quantile regression feature selection and estimation with grouped variables using Huber approximation</a>. Statistics and Computing, 32, 75. 
+	* Price, B.S., Allenbrand, C. and Sherwood, B. (2022) <a href="https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wics.1551">Detecting Clusters in Multivariate Regression</a>. WIREs Computational Statistics.
+	* Sherwood, B. and Maidman, A. (2022) <a href="https://jmlr.org/papers/volume23/19-697/19-697.pdf">Additive nonlinear quantile regression in ultra-high dimension</a>. Journal of Machine Learning Research, 23, 1-47.
 * 2021
-	* Price, B.S., Molstad, A.J. and Sherwood, B. <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1874963?journalCode=ucgs20">Estimating Multiple Precision Matrices with Cluster Fusion Regularization.</a>  Journal of Computational and Graphical Statistics, 1-30.
+	* Price, B.S., Molstad, A.J. and Sherwood, B. (2021) <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2021.1874963?journalCode=ucgs20">Estimating Multiple Precision Matrices with Cluster Fusion Regularization.</a>  Journal of Computational and Graphical Statistics, 1-30.
 * 2020
 	* Sherwood, B., Molstad, A.J. and Singha, S. (2020) <a href="https://www.sciencedirect.com/science/article/pii/S0167715219302779?casa_token=kLrf_B1g6sMAAAAA:5zG5yo84xUwD_acypuhn9TahF_h-MC_SAcaRR6gieU7oVA5Khx8IdbGFief3ypxwzG0Yy7oye1Y">Asymptotic properties of concave L1-norm group penalties.</a> Statistics and Probability Letters, 157.
 * 2019 
