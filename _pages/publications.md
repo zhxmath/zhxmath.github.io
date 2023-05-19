@@ -10,6 +10,7 @@ author_profile: true
 Published/Accepted
 ======
 * 2023
+	* Sherwood, B. and Price, B.S. (2023) <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2210174">On the Use of Minimum Penalties in Statistical Learning</a>. Journal of Computational and Graphical Statistics, 1-21. 
 	* Maidman, A., Wang, L., Zhou, X-H. and Sherwood, B. (2023) <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.9745">Quantile partially linear additive model for data with dropouts and an application to modeling cognitive decline</a>. Statistics in Medicine, 1-17.  
 	* Allenbrand, C. and Sherwood, B. (2023) <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/Model-selection-uncertainty-and-stability-in-beta-regression-models/10.1214/22-AOAS1647.short?tab=ArticleFirstPage">Model selection uncertainty and stability in beta regression models: A study of bootstrap-based model averaging with an empirical application to clickstream data</a>. Annals of Applied Statistics, 17(1), 680-710.
 * 2022
@@ -46,8 +47,5 @@ Published/Accepted
 
 Submitted 
 ======
-* <a href="https://arxiv.org/pdf/2106.05172.pdf">On the use of minimum penalties in statistical learning.</a>
 * Using Bayesian Networks to detect PTSD.
 * Penalized method for combining logistic regression and naive bayes. 
-* Partially Linear quantile regression for longitudinal data with dropouts. 
-
