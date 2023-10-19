@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben Sherwood"
+title                    : "Haixiang Zhang/Homepage"
 title_separator          : "-"
-name                     : &name "Ben Sherwood"
+name                     : &name "Haixiang Zhang"
 description              : &description "personal description"
-url                      : https://bssherwood.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhxmath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bssherwood/bssherwood.github.io"
+repository               : "zhxmath/zhxmath.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben Sherwood"
-  avatar           : "benPicMed.jpg"
+  name             : "Haixiang Zhang"
+  avatar           : #"benPicMed.jpg"
   bio              : "Howard Mid-Career Associate Professor at <a href='https://business.ku.edu/'>University of Kansas, School of Business</a>"
   location         : "Lawrence, KS"
   employer         :
