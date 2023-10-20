@@ -64,4 +64,15 @@ Publications
 1. **Zhang, H.**, Chen, J., Li, Z. and Liu, L. (2021). Testing for mediation effect with application to human microbiome data. *Statistics in Biosciences*, 13, 313-328.
 
 1. Wang, Y. and **Zhang, H.*** (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
+
+1. Wang, X., Wang, D. and **Zhang, H.** (2020). Poisson autoregressive process modeling via the penalized conditional maximum likelihood procedure. *Statistical Papers*, 61, 245-260.
+
+1. **Zhang, H.***, Wang, D. and Sun, L. (2017). Regularized estimation in GINAR(p) process. *Journal of the Korean Statistical Society*, 46, 502-517.
+
+1. **Zhang, H.**, Sun, L., Zhou, Y. and Huang, J. (2017). Oracle inequalities and selection consistency for weighted lasso in high-dimensional additive hazards model. *Statistica Sinica*, 27, 1903-1920.
+
+1. Zhou, J., **Zhang, H.***, Sun, L. and Sun, J. (2017). Joint analysis of panel count data with informative observation process and a dependent terminal event. *Lifetime Data Analysis*, 23, 560-584.
+
+1. **Zhang, H.**, Zheng, Y., Yoon, G., Zhang, Z., Gao, T., Joyce, B., Zhang, W., Schwartz, J., Vokonas, P., Colicino, E., Baccarelli, A., Hou, L. and Liu, L. (2017). Regularized estimation in sparse high-dimensional multivariate regression, with application to a DNA methylation study. *Statistical Applications in Genetics and Molecular Biology*, 16, 159-171.
+
    
