@@ -97,3 +97,10 @@ Publications
 
 1. **Zhang, H.**, Wang, D. and Zhu, F. (2012). Generalized RCINAR(1) process with signed thinning operator. *Communications in Statistics: Theory and Methods*,41, 1750-1770.
    
+1. **Zhang, H.**, Wang, D. and Zhu, F. (2011). Empirical likelihood inference for random coefficient INAR(p) process. *Journal of Time Series Analysis*, 32, 195-203.
+
+1. **Zhang, H.**, Wang, D. and Zhu, F. (2011). The empirical likelihood for first-order random coefficient integer-valued autoregressive processes. *Communications in Statistics: Theory and Methods*, 40, 492-509.
+
+1. Wang, D. and **Zhang, H.** (2011). Generalized RCINAR(p) process with signed thinning operator. *Communications in Statistics: Simulation and Computation*, 40, 13-44.
+
+1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power serie thinning operator. *Journal of Statistical Planning and Inference*,140, 667-683.
