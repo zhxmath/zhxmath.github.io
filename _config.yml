@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['Ben Sherwood', 'ben.sherwood at ku.edu', 'message']
+  requiredFields         : ['Haixiang Zhang', 'haixiang.zhang at tju.edu,cn', 'message']
   transforms:
     email                : "md5"
   generatedFields:
