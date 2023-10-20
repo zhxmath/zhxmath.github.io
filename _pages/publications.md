@@ -75,4 +75,17 @@ Publications
 
 1. **Zhang, H.**, Zheng, Y., Yoon, G., Zhang, Z., Gao, T., Joyce, B., Zhang, W., Schwartz, J., Vokonas, P., Colicino, E., Baccarelli, A., Hou, L. and Liu, L. (2017). Regularized estimation in sparse high-dimensional multivariate regression, with application to a DNA methylation study. *Statistical Applications in Genetics and Molecular Biology*, 16, 159-171.
 
+1. Fang, S., **Zhang, H.***, Sun, L. and Wang, D. (2017). Analysis of panel count data with time-dependent covariates and informative observation process. *Acta Mathematicae Applicatae Sinica, English Series*,33, 147-156.
+
+1.  Yoon, G., Zheng, Y., Zhang, Z., **Zhang, H.**, Gao, T., Joyce, B., Zhang, W., Guan, W., Baccarelli, A., Jiang, W., Schwartz, J., Vokonas, P., Hou, L. and Liu, L. (2017). Ultra-high dimensional variable selection with application to normative aging study: DNA methylation and metabolic syndrome. *BMC Bioinformatics*, 18:156.
+
+1. Fang, S., **Zhang, H.** and Sun, L. (2016). Joint analysis of longitudinal data with additive mixed effect model for informative observation times. *Journal of Statistical Planning and Inference*,169, 43-55.
+
+1. **Zhang, H.**, Zheng, Y., Zhang, Z., Gao, T., Joyce, B., Yoon, G., Zhang, W., Schwartz, J., Just, A., Colicino, E., Vokonas, P., Zhao, L., Lv, J., Baccarelli, A., Hou, L. and Liu, L. (2016). Estimating and testing high-dimensional mediation effects in epigenetic studies. *Bioinformatics*, 32, 3150-3154.
+
+1. Liu,Y., Wang, D., **Zhang, H.** and Shi, N. (2016). Bivariate zero truncated Poisson INAR(1) process. *Journal of the Korean Statistical Society*, 45, 260-275.
+
+1. **Zhang, H.** and Wang, D. (2015). Inference for random coefficient INAR(1) process based on frequency domain analysis. *Communications in Statistics: Simulation and Computation*, 44, 1078-1100.
+
+1. Li, C., Wang, D. and **Zhang, H.** (2015). First-order mixed integer-valued autoregressive processes with zero-inflated generalized power series innovations. *Journal of the Korean Statistical Society*, 44, 232-246.
    
