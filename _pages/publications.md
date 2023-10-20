@@ -25,9 +25,9 @@ Publications
 
 1. Hou, L., **Zhang, H.**, Hou, Q. Guo, A., Wu, O., Zhang, J. and Yu, T. (2023).  SARW: Similarity-Aware random walk for GCN. *Intelligent Data Analysis*, accepted.
 
-1. **Zhang, H.*** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*, 33, article number: 86.
+1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*, 33, article number: 86.
 
-1. Wang, T., **Zhang, H.*** and Sun, L. (2023). Renewable learning for multiplicative regression model with streaming datasets. *Computational Statistics*. DOI: 10.1007/s00180-023-01360-6 (The first author is a Master student under my supervision)
+1. Wang, T., **Zhang, H.** * and Sun, L. (2023). Renewable learning for multiplicative regression model with streaming datasets. *Computational Statistics*. DOI: 10.1007/s00180-023-01360-6 (The first author is a Master student under my supervision)
 
 1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
 
