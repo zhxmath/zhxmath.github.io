@@ -15,6 +15,8 @@ Preprints
 
 1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*
 
+1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2023). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Submitted*. 
+
 Published/Accepted
 ======
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2023). Approximating partial likelihood estimators via optimal subsampling. Journal of Computational and Graphical Statistics, accepted
