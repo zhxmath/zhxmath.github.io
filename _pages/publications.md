@@ -88,4 +88,12 @@ Publications
 1. **Zhang, H.** and Wang, D. (2015). Inference for random coefficient INAR(1) process based on frequency domain analysis. *Communications in Statistics: Simulation and Computation*, 44, 1078-1100.
 
 1. Li, C., Wang, D. and **Zhang, H.** (2015). First-order mixed integer-valued autoregressive processes with zero-inflated generalized power series innovations. *Journal of the Korean Statistical Society*, 44, 232-246.
+
+1. Jia, B., Wang, D. and **Zhang, H.** (2014). A study for missing values in PINAR(1) processes. *Communications in Statistics: Theory and Methods*, 43, 4780-4789.
+
+1. **Zhang, H.**, Zhao, H., Sun, J., Wang, D. and Kim, K. (2013). Regression analysis of multivariate panel count data with an informative observation process. *Journal of Multivariate Analysis*, 119, 71-80.
+
+1. **Zhang, H.**, Sun, J. and Wang, D. (2013). Variable selection and estimation for multivariate panel count data via the seamless Lo penalty. *The Canadian Journal of Statistics*, 41, 368-385.
+
+1. **Zhang, H.**, Wang, D. and Zhu, F. (2012). Generalized RCINAR(1) process with signed thinning operator. *Communications in Statistics: Theory and Methods*,41, 1750-1770.
    
