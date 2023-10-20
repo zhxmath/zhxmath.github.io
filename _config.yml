@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['Haixiang Zhang', 'haixiang.zhang at tju.edu,cn', 'message']
+  requiredFields         : ['Haixiang Zhang', 'haixiang.zhang at tju.edu.cn', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haixiang Zhang"
   avatar           : #"benPicMed.jpg"
-  bio              : "Howard Mid-Career Associate Professor at <a href='https://business.ku.edu/'>University of Kansas, School of Business</a>"
+  bio              : " <a href='http://cam.tju.edu.cn/en/index.php'>Center for Applied Mathematics, Tianjin University</a>"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
