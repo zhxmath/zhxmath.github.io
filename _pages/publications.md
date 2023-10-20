@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Getting started
+Published/Accepted
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
    
