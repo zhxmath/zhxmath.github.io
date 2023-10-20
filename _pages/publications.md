@@ -23,3 +23,7 @@ Publications
 
 1.  Shi, Y., Li, H., Wang, C., Chen, J., Jiang, H., Shih, T., **Zhang, H.**, Song, Y.,  Feng, Y. and Liu, L. (2023). A flexible quasi-likelihood model for microbiome abundance count data. *Statistics in Medicine*, 42, 4632-4643.
 
+1. Hou, L., **Zhang, H.**, Hou, Q. Guo, A., Wu, O., Zhang, J. and Yu, T. (2023).  SARW: Similarity-Aware random walk for GCN. *Intelligent Data Analysis*, accepted.
+
+1. **Zhang, H.*** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*, 33, article number: 86.
+
