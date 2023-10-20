@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -86,8 +86,8 @@ author:
   location         : "Lawrence, KS"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=0bocpB8AAAAJ&hl=en"
-  email            : "ben.sherwood--ku.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=0bocpB8AAAAJ&hl=en"
+  email            : "haixiang.zhang@tju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
