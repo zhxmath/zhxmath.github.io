@@ -12,5 +12,7 @@ I am an Associate Professor in the Center for Applied Mathematic，at the  Tian
 * Causal Mediation Analysis
 * Statistical Inference for Big Data
 
-Address
-Email: haixiang.zhang@tju.edu.cn
+
+**Address**: Center for Applied Mathematics, Tianjin University, Tianjin 300072, China
+
+**Email**: haixiang.zhang@tju.edu.cn
