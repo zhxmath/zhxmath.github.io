@@ -25,10 +25,3 @@ Published/Accepted
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
-
-
-
-#Submitted 
-#======
-#* Penalized method for combining logistic regression and naive bayes. 
-#* An approach to model selection uncertainty in time series models. 
