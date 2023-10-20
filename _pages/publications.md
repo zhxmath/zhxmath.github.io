@@ -52,5 +52,8 @@ Publications
 1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*. DOI: 10.1016/j.csda.2020.107072
 
 1. Zuo, L., **Zhang, H.***, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
+   
+1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. DOI: 10.1016j.csda.2020.107015
 
+1. **Zhang, H.**, Chen, J., Feng, Y., Wang, C., Li, H. and Liu, L. (2021). Mediation effect selection in high-dimensional and compositional microbiome data. *Statistics in Medicine*, 40, 885-896.
    
