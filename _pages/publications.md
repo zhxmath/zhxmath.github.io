@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Published/Accepted
+Preprints
 ======
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2023). Approximating partial likelihood estimators via optimal subsampling. Journal of Computational and Graphical Statistics, accepted
 
