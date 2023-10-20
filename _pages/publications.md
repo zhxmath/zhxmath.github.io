@@ -33,7 +33,7 @@ Publications
 
 1. **Zhang, H.**, Hou, L. and Liu, L. (2022) A selective review of high-dimensional mediation analyses in DNA methylation studies. In Guan, Weihua (Ed.), *Epigenome-Wide Association Studies: Methods and Protocols*, DOI: 10.1007/978-1-0716-1994-0.
 
-1. Wang, T. and **Zhang, H.*** (2022). Optimal subsampling for multiplicative regression with massive data. *Statistica Neerlandica*, 76, 418-449. (The first author is a Master student under my supervision).
+1. Wang, T. and **Zhang, H.**# (2022). Optimal subsampling for multiplicative regression with massive data. *Statistica Neerlandica*, 76, 418-449. (The first author is a Master student under my supervision).
 
 1. Zheng, Y., Joyce, B., Hwang, S., Ma, J., Liu, L., Allen, N., Krefman, A., Wang, J., Gao, T., Nannini, D., **Zhang, H.**, Jacobs, D., et al. (2022). Association of cardiovascular health through young adulthood with genome-wide DNA methylation patterns in midlife: The Coronary Artery Risk Development in Young Adults (CARDIA) Study. *Circulation*, 146, 94-109.
 
@@ -43,39 +43,39 @@ Publications
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. *Scandinavian Journal of Statistics*, 49, 353-372.
 
-1. Zuo, L., **Zhang, H.*** , Wang, H. and Sun, L. (2021). Optimal subsample selection for massive logistic regression with distributed data. *Computational Statistics*,  36, pages2535–2562.  (The first author is a Master student under my supervision).
+1. Zuo, L., **Zhang, H.**# , Wang, H. and Sun, L. (2021). Optimal subsample selection for massive logistic regression with distributed data. *Computational Statistics*,  36, pages2535–2562.  (The first author is a Master student under my supervision).
 
-1. Li, C., **Zhang, H.*** and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
+1. Li, C., **Zhang, H.**# and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
 
 1. Dang, Y., Wang, R., Qian, K., Lu, J., **Zhang, H.** and Zhang, Y. (2021). Clinical and radiological predictors of epidermal growth factor receptor mutation in nonsmall cell lung cancer. *Journal of Applied Clinical Medical Physics*, 22, 271-280.
 
 1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*. DOI: 10.1016/j.csda.2020.107072
 
-1. Zuo, L., **Zhang, H.***, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
+1. Zuo, L., **Zhang, H.**#, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
    
 1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. DOI: 10.1016j.csda.2020.107015
 
 1. **Zhang, H.**, Chen, J., Feng, Y., Wang, C., Li, H. and Liu, L. (2021). Mediation effect selection in high-dimensional and compositional microbiome data. *Statistics in Medicine*, 40, 885-896.
 
-1.  Liu, J. and **Zhang, H.*** (2022). First-order random coefficient INAR process with dependent counting series. *Communications in Statistics: Simulation and Computation*, 51, 3341-3354. (The first author is a Master student under my supervision).
+1.  Liu, J. and **Zhang, H.**# (2022). First-order random coefficient INAR process with dependent counting series. *Communications in Statistics: Simulation and Computation*, 51, 3341-3354. (The first author is a Master student under my supervision).
 
-1. Wang, Y. and **Zhang, H.*** (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
+1. Wang, Y. and **Zhang, H.**# (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Chen, J., Li, Z. and Liu, L. (2021). Testing for mediation effect with application to human microbiome data. *Statistics in Biosciences*, 13, 313-328.
 
-1. Wang, Y. and **Zhang, H.*** (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
+1. Wang, Y. and **Zhang, H.**# (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
 
 1. Wang, X., Wang, D. and **Zhang, H.** (2020). Poisson autoregressive process modeling via the penalized conditional maximum likelihood procedure. *Statistical Papers*, 61, 245-260.
 
-1. **Zhang, H.***, Wang, D. and Sun, L. (2017). Regularized estimation in GINAR(p) process. *Journal of the Korean Statistical Society*, 46, 502-517.
+1. **Zhang, H.**#, Wang, D. and Sun, L. (2017). Regularized estimation in GINAR(p) process. *Journal of the Korean Statistical Society*, 46, 502-517.
 
 1. **Zhang, H.**, Sun, L., Zhou, Y. and Huang, J. (2017). Oracle inequalities and selection consistency for weighted lasso in high-dimensional additive hazards model. *Statistica Sinica*, 27, 1903-1920.
 
-1. Zhou, J., **Zhang, H.***, Sun, L. and Sun, J. (2017). Joint analysis of panel count data with informative observation process and a dependent terminal event. *Lifetime Data Analysis*, 23, 560-584.
+1. Zhou, J., **Zhang, H.**#, Sun, L. and Sun, J. (2017). Joint analysis of panel count data with informative observation process and a dependent terminal event. *Lifetime Data Analysis*, 23, 560-584.
 
 1. **Zhang, H.**, Zheng, Y., Yoon, G., Zhang, Z., Gao, T., Joyce, B., Zhang, W., Schwartz, J., Vokonas, P., Colicino, E., Baccarelli, A., Hou, L. and Liu, L. (2017). Regularized estimation in sparse high-dimensional multivariate regression, with application to a DNA methylation study. *Statistical Applications in Genetics and Molecular Biology*, 16, 159-171.
 
-1. Fang, S., **Zhang, H.***, Sun, L. and Wang, D. (2017). Analysis of panel count data with time-dependent covariates and informative observation process. *Acta Mathematicae Applicatae Sinica, English Series*,33, 147-156.
+1. Fang, S., **Zhang, H.**#, Sun, L. and Wang, D. (2017). Analysis of panel count data with time-dependent covariates and informative observation process. *Acta Mathematicae Applicatae Sinica, English Series*,33, 147-156.
 
 1.  Yoon, G., Zheng, Y., Zhang, Z., **Zhang, H.**, Gao, T., Joyce, B., Zhang, W., Guan, W., Baccarelli, A., Jiang, W., Schwartz, J., Vokonas, P., Hou, L. and Liu, L. (2017). Ultra-high dimensional variable selection with application to normative aging study: DNA methylation and metabolic syndrome. *BMC Bioinformatics*, 18:156.
 
