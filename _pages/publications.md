@@ -49,6 +49,8 @@ Publications
 
 1. Dang, Y., Wang, R., Qian, K., Lu, J., **Zhang, H.** and Zhang, Y. (2021). Clinical and radiological predictors of epidermal growth factor receptor mutation in nonsmall cell lung cancer. *Journal of Applied Clinical Medical Physics*, 22, 271-280.
 
+1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*. DOI: 10.1016/j.csda.2020.107072
 
+1. Zuo, L., **Zhang, H.***, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
 
    
