@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2022). HIMA: An R package for high-dimensional mediation analysis. The R Journal, (major revision).
+1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2022). HIMA: An R package for high-dimensional mediation analysis. *The R Journal*, (major revision).
 
 
 
