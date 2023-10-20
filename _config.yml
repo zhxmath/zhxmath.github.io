@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haixiang Zhang"
   avatar           : #"benPicMed.jpg"
-  bio              :" <a href='http://www.tju.edu.cn/'>Tianjin University</a>"
+  bio              : "<a href='http://www.tju.edu.cn/'>Tianjin University</a>"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
