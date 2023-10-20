@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2023). Approximating partial likelihood estimators via optimal subsampling. Journal of Computational and Graphical Statistics, accepted*
+1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2022). HIMA: An R package for high-dimensional mediation analysis. The R Journal, (major revision).
 
 
 
