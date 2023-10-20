@@ -17,7 +17,7 @@ Preprints
 
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2023). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Submitted*. 
 
-Publications
+Publications(# indicates corresponding author)
 ======
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2023). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*. DOI: 10.1080/10618600.2023.2216261
 
