@@ -45,7 +45,9 @@ Publications
 
 1. Zuo, L., **Zhang, H.*** , Wang, H. and Sun, L. (2021). Optimal subsample selection for massive logistic regression with distributed data. *Computational Statistics*,  36, pages2535–2562.  (The first author is a Master student under my supervision).
 
+1. Li, C., **Zhang, H.*** and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
 
+1. Dang, Y., Wang, R., Qian, K., Lu, J., **Zhang, H.** and Zhang, Y. (2021). Clinical and radiological predictors of epidermal growth factor receptor mutation in nonsmall cell lung cancer. *Journal of Applied Clinical Medical Physics*, 22, 271-280.
 
 
 
