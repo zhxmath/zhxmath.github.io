@@ -59,5 +59,7 @@ Publications
 
 1.  Liu, J. and **Zhang, H.*** (2022). First-order random coefficient INAR process with dependent counting series. *Communications in Statistics: Simulation and Computation*, 51, 3341-3354. (The first author is a Master student under my supervision).
 
+1. Wang, Y. and **Zhang, H.*** (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
+
 1. **Zhang, H.**, Chen, J., Li, Z. and Liu, L. (2021). Testing for mediation effect with application to human microbiome data. *Statistics in Biosciences*, 13, 313-328.
    
