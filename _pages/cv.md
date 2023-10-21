@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Mathematics and Computer Science, Macalester College, 2003
+* Ph.D. in Statistics, Jilin University, China, 2012 (Advisor: Prof.  Dehui Wang)
+  * Dissertation Topic:  "Statistical Inference for Integer-valued Time Series and Multivariate Panel Count Data"
 * Ph.D in Statistics, University of Minnesota, 2014 (Advisor: Dr. Lan Wang)
 * Post Doctoral Fellow at Johns Hopkins Biostatistics Department, 2014-2016 (Advisor: Dr. Hongkai Ji)
 
