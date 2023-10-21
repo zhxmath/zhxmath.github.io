@@ -18,9 +18,7 @@ Education
 
 Positions and Employment
 ======
-* 12/2016 - present： 
-  * Transitioned company to new database that tracked all program participants.
-  * Consulted staff on data collection and analysis required for grants and government reports.
+* 12/2016 - present： Center for Applied Mathematics, Tianjin University, China
   
 * November 2004 to February 2006: IT Specialist at Genesis II for Families (now <a href="https://familywiseservices.org/">FamilyWise</a>)
   * Sole point of contact for all technological issues.
