@@ -16,9 +16,9 @@ Education
 * M.A. in Statistics,  Jilin University, China, 2009
 * B.S. in Statistics,  Jilin University, China, 2007
 
-Work experience
+Positions and Employment
 ======
-* February 2006 to May 2009: Systems Administrator at <a href="www.rise.org">Rise, Inc.</a>
+*12/2016 - present： 
   * Transitioned company to new database that tracked all program participants.
   * Consulted staff on data collection and analysis required for grants and government reports.
   
