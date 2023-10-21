@@ -18,19 +18,11 @@ Education
 
 Positions and Employment
 ======
-* 12/2016 - present： Center for Applied Mathematics, Tianjin University, China
-  
-* November 2004 to February 2006: IT Specialist at Genesis II for Families (now <a href="https://familywiseservices.org/">FamilyWise</a>)
-  * Sole point of contact for all technological issues.
-  * Wrote grants for funding of technology needs.
+* 12/2016 - present (Associate Professor)： Center for Applied Mathematics, Tianjin University, China
 
-* July 2003 to July 2004: AmeriCorps VISTA at <a href="www.uen.org">Utah Education Network</a>
-	* Managed program that donated used computer equipment to schools in Utah.
-	* Created program providing computer training for refugees living in Salt Lake City.
+*  4/2013 - 11/2016 (Assistant Professor):  School of Mathematics, Jilin University, China
   
-* Summers of 1997-2000: Concession Stand Attendant at <a href="https://www.pdhp.org/hidden-creek-aquatic-park-outdoor-pool/">Hidden Creek Aquapark</a>
-	* Assistant Manager in 1999 and 2000.
-	* Provided food and drink to thirsty and hungry swimmers and their parents. 
+* 5/2015 - 5/2016 (Postdoctor): Department of Preventive Medicine, Northwestern University, USA
 
 <!--
 Skills
