@@ -39,11 +39,10 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Zhang, M., Zhao, L., Zhang, Y., Jing, H., Wei, L., Li, Z., **Zhang, H.**, Zhang, Y., Zhu, S., Zhang, S. and Zhang, X. (2022). Colorectal cancer screening with high risk-factor questionnaire and fecal immunochemical tests among 5,947,986 asymptomatic population: a population-based study. *Frontiers in Oncology*. DOI: 10.3389/fonc.2022.893183
 
-1. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation analysis for survival data with high-dimensional mediators. *Bioinformatics*, 37,  3815-3821.
+1.  Liu, J. and **Zhang, H.**# (2022). First-order random coefficient INAR process with dependent counting series. *Communications in Statistics: Simulation and Computation*, 51, 3341-3354. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. *Scandinavian Journal of Statistics*, 49, 353-372.
 
-1. Zuo, L., **Zhang, H.**# , Wang, H. and Sun, L. (2021). Optimal subsample selection for massive logistic regression with distributed data. *Computational Statistics*,  36, pages2535–2562.  (The first author is a Master student under my supervision).
 
 1. Li, C., **Zhang, H.**# and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
 
@@ -52,18 +51,21 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*. DOI: 10.1016/j.csda.2020.107072
 
 1. Zuo, L., **Zhang, H.**#, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
+
+1. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation analysis for survival data with high-dimensional mediators. *Bioinformatics*, 37,  3815-3821.
    
-1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. DOI: 10.1016j.csda.2020.107015
+1. Zuo, L., **Zhang, H.**# , Wang, H. and Sun, L. (2021). Optimal subsample selection for massive logistic regression with distributed data. *Computational Statistics*,  36, pages2535–2562.  (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Chen, J., Feng, Y., Wang, C., Li, H. and Liu, L. (2021). Mediation effect selection in high-dimensional and compositional microbiome data. *Statistics in Medicine*, 40, 885-896.
 
-1.  Liu, J. and **Zhang, H.**# (2022). First-order random coefficient INAR process with dependent counting series. *Communications in Statistics: Simulation and Computation*, 51, 3341-3354. (The first author is a Master student under my supervision).
 
 1. Wang, Y. and **Zhang, H.**# (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Chen, J., Li, Z. and Liu, L. (2021). Testing for mediation effect with application to human microbiome data. *Statistics in Biosciences*, 13, 313-328.
 
 1. Wang, Y. and **Zhang, H.**# (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
+
+1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. DOI: 10.1016j.csda.2020.107015
 
 1. Wang, X., Wang, D. and **Zhang, H.** (2020). Poisson autoregressive process modeling via the penalized conditional maximum likelihood procedure. *Statistical Papers*, 61, 245-260.
 
