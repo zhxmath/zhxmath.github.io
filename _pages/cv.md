@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Jilin University, China, 2012 (Advisor: Prof.  Dehui Wang)
+* Ph.D in Statistics, Jilin University, China, 2012 (Adviser: Prof.  Dehui Wang)
   * Dissertation Topic:  "Statistical Inference for Integer-valued Time Series and Multivariate Panel Count Data"
 * M.A. in Statistics,  Jilin University, China, 2009
 * B.S. in Statistics,  Jilin University, China, 2007
