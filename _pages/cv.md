@@ -22,13 +22,14 @@ Positions and Employment
 
 *  4/2013 - 11/2016 (Assistant Professor):  School of Mathematics, Jilin University, China
   
-* 5/2015 - 5/2016 (Postdoctor): Department of Preventive Medicine, Northwestern University, USA
+* 5/2015 - 5/2016 (Postdoctor): Department of Preventive Medicine, Northwestern University, USA (Adviser: Prof. Lei Liu)
 
-*   1/2014 - 3/2014 (Visiting Scholar): Hong Kong University of Science and Technology, Hong Kong
+*   1/2014 - 3/2014 (Visiting Scholar): Hong Kong University of Science and Technology, Hong Kong (Adviser: Prof. Kani Chen)
 
-*   5/2013 - 5/2015 (Postdoctor): Institute of Applied Mathematics, Chinese Academy of Sciences, China
+*   5/2013 - 5/2015 (Postdoctor): Institute of Applied Mathematics, Chinese Academy of Sciences, China (Adviser: Prof.
+  Liuquan Sun)
 
-*   9/2011 - 9/2012 (Visiting Scholar): Department of Statistics, University of Missouri, USA
+*   9/2011 - 9/2012 (Visiting Scholar): Department of Statistics, University of Missouri, USA (Adviser: Prof. Jianguo Sun)
 
 <!--
 Skills
