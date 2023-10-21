@@ -18,7 +18,7 @@ Education
 
 Positions and Employment
 ======
-*12/2016 - present： 
+* 12/2016 - present： 
   * Transitioned company to new database that tracked all program participants.
   * Consulted staff on data collection and analysis required for grants and government reports.
   
