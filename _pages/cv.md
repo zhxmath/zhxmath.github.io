@@ -24,6 +24,12 @@ Positions and Employment
   
 * 5/2015 - 5/2016 (Postdoctor): Department of Preventive Medicine, Northwestern University, USA
 
+*   1/2014 - 3/2014 (Visiting Scholar): Hong Kong University of Science and Technology, Hong Kong
+
+*   5/2013 - 5/2015 (Postdoctor): Institute of Applied Mathematics, Chinese Academy of Sciences, China
+
+*   9/2011 - 9/2012 (Visiting Scholar): Department of Statistics, University of Missouri, USA
+
 <!--
 Skills
 ======
