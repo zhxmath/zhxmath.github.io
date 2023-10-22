@@ -31,7 +31,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
 
-1. **Zhang, H.**, Hou, L. and Liu, L. (2022) A selective review of high-dimensional mediation analyses in DNA methylation studies. In Guan, Weihua (Ed.), *Epigenome-Wide Association Studies: Methods and Protocols*, DOI: 10.1007/978-1-0716-1994-0.
+1. **Zhang, H.**, Hou, L. and Liu, L. (2022) A review of high-dimensional mediation analyses in DNA methylation studies. In Guan, Weihua (Ed.), *Epigenome-Wide Association Studies: Methods and Protocols*, DOI: 10.1007/978-1-0716-1994-0.
 
 1. Wang, T. and **Zhang, H.**# (2022). Optimal subsampling for multiplicative regression with massive data. *Statistica Neerlandica*, 76, 418-449. (The first author is a Master student under my supervision).
 
