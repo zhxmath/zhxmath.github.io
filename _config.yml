@@ -78,6 +78,8 @@ analytics:
     tracking_id          :
 
 
+minimal_mistakes_skin:    "aqua" 
+
 # Site Author
 author:
   name             : "Haixiang Zhang"
