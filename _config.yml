@@ -7,7 +7,7 @@
 
 # Site Settings
 theme:                    minimal-mistakes-jekyll
-minimal_mistakes_skin:    "aqua"
+#minimal_mistakes_skin:    "aqua"
 locale                   : 
 title                    : "Haixiang Zhang's Homepage"
 title_separator          : "-"
