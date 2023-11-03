@@ -32,7 +32,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1. Zhang,  M., Zhang,  Y., Zhang, W.,  Zhao, L.,   Jing,  H., Wu, X., Guo, L.,  **Zhang, H.**, Zhang, Y., Zhu, S., Zhang, S.,  Zhang, X.  (2023). 
  Postponing colonoscopy for 6 months in high‐risk population increases colorectal cancer detection in China. *Cancer Medicine*, 12, 11816-11827. 
 
-1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
+1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Zheng, C., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
 
 1. **Zhang, H.**, Hou, L. and Liu, L. (2022) A review of high-dimensional mediation analyses in DNA methylation studies. In Guan, Weihua (Ed.), *Epigenome-Wide Association Studies: Methods and Protocols*, DOI: 10.1007/978-1-0716-1994-0.
 
