@@ -19,6 +19,8 @@ Preprints
 
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
+1. An, M. and **Zhang, H.**# (2023). High-dimensional mediation analysis for time-to-event outcomes with additive hazards model. *Mathematics, accepted. (The first author is a Master student under my supervision)
+   
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2023). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*. DOI: 10.1080/10618600.2023.2216261
 
 1.  Shi, Y., Li, H., Wang, C., Chen, J., Jiang, H., Shih, T., **Zhang, H.**, Song, Y.,  Feng, Y. and Liu, L. (2023). A flexible quasi-likelihood model for microbiome abundance count data. *Statistics in Medicine*, 42, 4632-4643.
