@@ -113,4 +113,4 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Wang, D. and **Zhang, H.** (2011). Generalized RCINAR(p) process with signed thinning operator. *Communications in Statistics: Simulation and Computation*, 40, 13-44.
 
-1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power serie thinning operator. *Journal of Statistical Planning and Inference*,140, 667-683.
+1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator. *Journal of Statistical Planning and Inference*,140, 667-683.
