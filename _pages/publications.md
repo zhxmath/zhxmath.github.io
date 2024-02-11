@@ -29,7 +29,8 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1.  Shi, Y., Li, H., Wang, C., Chen, J., Jiang, H., Shih, T., **Zhang, H.**, Song, Y.,  Feng, Y. and Liu, L. (2023). A flexible quasi-likelihood model for microbiome abundance count data. *Statistics in Medicine*, 42, 4632-4643.
 
 1. Hou, L., **Zhang, H.**, Hou, Q. Guo, A., Wu, O., Zhang, J. and Yu, T. (2023).  SARW: Similarity-Aware random walk for GCN. *Intelligent Data Analysis*, 27, 1615-1636.
-
+   
+1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*, accepted.
    
 1. Wang, T., **Zhang, H.**#  and Sun, L. (2023). Renewable learning for multiplicative regression model with streaming datasets. *Computational Statistics*. DOI: 10.1007/s00180-023-01360-6 (The first author is a Master student under my supervision)
 
@@ -50,7 +51,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. *Scandinavian Journal of Statistics*, 49, 353-372.
 
-
 1. Li, C., **Zhang, H.**# and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
 
 1. Dang, Y., Wang, R., Qian, K., Lu, J., **Zhang, H.** and Zhang, Y. (2021). Clinical and radiological predictors of epidermal growth factor receptor mutation in nonsmall cell lung cancer. *Journal of Applied Clinical Medical Physics*, 22, 271-280.
@@ -64,7 +64,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1. Zuo, L., **Zhang, H.**# , Wang, H. and Sun, L. (2021). Optimal subsample selection for massive logistic regression with distributed data. *Computational Statistics*,  36, pages2535–2562.  (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Chen, J., Feng, Y., Wang, C., Li, H. and Liu, L. (2021). Mediation effect selection in high-dimensional and compositional microbiome data. *Statistics in Medicine*, 40, 885-896.
-
 
 1. Wang, Y. and **Zhang, H.**# (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
 
@@ -112,4 +111,4 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Wang, D. and **Zhang, H.** (2011). Generalized RCINAR(p) process with signed thinning operator. *Communications in Statistics: Simulation and Computation*, 40, 13-44.
 
-
+1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator. *Journal of Statistical Planning and Inference*,140, 667-683.
