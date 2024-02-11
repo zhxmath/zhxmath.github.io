@@ -13,7 +13,7 @@ Preprints
 
 1.  **Zhang, H.** (2023). Efficient adaptive joint significance tests and Sobel-type confidence intervals for mediation effects. *arXiv:2302.02288*. <a href="https://github.com/zhxmath/AdapMed"> R package "AdapMed"</a>.
 
-1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*
+1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*.
 
 1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators
 with FDR control. *Submitted*. (The first author is a Master student under my supervision).
