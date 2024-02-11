@@ -16,7 +16,7 @@ Preprints
 1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*
 
 1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators
-with FDR control. *Submitted*. (The first author is a Master student under my supervision)
+with FDR control. *Submitted*. (The first author is a Master student under my supervision).
  
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
