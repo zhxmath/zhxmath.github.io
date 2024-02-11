@@ -30,7 +30,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Hou, L., **Zhang, H.**, Hou, Q. Guo, A., Wu, O., Zhang, J. and Yu, T. (2023).  SARW: Similarity-Aware random walk for GCN. *Intelligent Data Analysis*, 27, 1615-1636.
    
-1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*,  accepted.
+1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*, accepted.
    
 1. Wang, T., **Zhang, H.**#  and Sun, L. (2023). Renewable learning for multiplicative regression model with streaming datasets. *Computational Statistics*. DOI: 10.1007/s00180-023-01360-6 (The first author is a Master student under my supervision)
 
@@ -111,6 +111,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Wang, D. and **Zhang, H.** (2011). Generalized RCINAR(p) process with signed thinning operator. *Communications in Statistics: Simulation and Computation*, 40, 13-44.
 
-1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator. *Journal of Statistical Planning and Inference*,140, 667-683.
+1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator.  *Journal of Statistical Planning and Inference*,140, 667-683.
 
 
