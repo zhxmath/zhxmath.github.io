@@ -11,7 +11,7 @@ Preprints
 ======
 1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2022). HIMA: An R package for high-dimensional mediation analysis. *Submitted*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
 
-1.  **Zhang, H.** (2023). Efficient adaptive joint significance test and Sobel-type confidence interval for mediation effect. *arXiv:2302.02288v6*. <a href="https://github.com/zhxmath/AdapMed"> [R package "AdapMed"]</a>.
+1.  **Zhang, H.** (2023). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *arXiv:2302.02288v7*. <a href="https://github.com/zhxmath/AdapMed"> [R package "AdapMed"]</a>.
 
 1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*.
 
