@@ -15,11 +15,12 @@ Preprints
 
 1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*.
 
-1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators
-with FDR control. *Submitted*. (The first author is a Master student under my supervision).
+
  
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
+1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators with FDR control. *Statistics in Biosciences*. accepted.  (The first author is a Master student under my supervision).
+
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, DOI: 10.1093/bioinformatics/btae055
 
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*, 33, 276-288.
