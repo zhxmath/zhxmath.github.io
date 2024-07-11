@@ -19,7 +19,7 @@ Preprints
  
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
-1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators with FDR control. *Statistics in Biosciences*, accepted.  (The first author is a Master student under my supervision).
+1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators with FDR control. *Statistics in Biosciences*, DOI:10.1007/s12561-024-09447-4.  (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, DOI: 10.1093/bioinformatics/btae055
 
