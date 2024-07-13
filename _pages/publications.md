@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2022). HIMA: An R package for high-dimensional mediation analysis. *Submitted*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
+1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2024). HIMA: An R package for high-dimensional mediation analysis. *manuscript*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
 
 1.  **Zhang, H.** (2023). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *arXiv:2302.02288v7*. <a href="https://github.com/zhxmath/AdapMed"> [R package "AdapMed"]</a>.
 
