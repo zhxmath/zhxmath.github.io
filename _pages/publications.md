@@ -11,14 +11,14 @@ Preprints
 ======
 1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2024). HIMA: An R package for high-dimensional mediation analysis. *manuscript*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
 
-1.  **Zhang, H.** (2023). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *arXiv:2302.02288v7*. <a href="https://github.com/zhxmath/AdapMed"> [R package "AdapMed"]</a>.
-
 1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*.
 
 
  
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
+1.  **Zhang, H.** (2024). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling: A Multidisciplinary Journal*. DOI:10.1080/10705511.2024.2392139 <a href="https://github.com/zhxmath/AdjMed"> [R package "AdjMed"]</a>.
+   
 1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators with FDR control. *Statistics in Biosciences*, DOI:10.1007/s12561-024-09447-4.  (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, DOI: 10.1093/bioinformatics/btae055
