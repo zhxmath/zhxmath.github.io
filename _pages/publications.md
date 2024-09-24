@@ -9,9 +9,9 @@ author_profile: true
 
 Preprints
 ======
-1. **Zhang, H.** and Wang, H. (2024). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *submitted*
+1. **Zhang, H.** and Wang, H. (2024). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *submitted*.
    
-1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2024). HIMA: An R package for high-dimensional mediation analysis. *manuscript*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
+1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2024). HIMA: An R package for high-dimensional mediation analysis. *submitted*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
 
 1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*.
 
@@ -72,8 +72,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1. Wang, Y. and **Zhang, H.**# (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Chen, J., Li, Z. and Liu, L. (2021). Testing for mediation effect with application to human microbiome data. *Statistics in Biosciences*, 13, 313-328.
-
-1. Wang, Y. and **Zhang, H.**# (2021). Some estimation and forecasting procedures in Possion-Lindley INAR(1) process. *Communications in Statistics: Simulation and Computation*, 50,49-62. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. DOI: 10.1016j.csda.2020.107015
 
