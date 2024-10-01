@@ -13,9 +13,6 @@ Preprints
    
 1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2024). HIMA: An R package for high-dimensional mediation analysis. *submitted*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
 
-1.  **Zhang, H.**, Li, Y. and Wang, H. (2023). Distributed estimation for large-scale Cox regression with Poisson subsampling. *arXiv:2310.08208*.
-
-
  
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
