@@ -21,7 +21,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 ======
 1. **Zhang, H.**, Li, Y. and Wang, H. (2024). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*.  Accepted.
 
-1. Shi, Y., Liu, L., Chen, J., Wylie, K., Wylie, T., Stout, M.,  Wang, C., **Zhang, H.**, Shih, T., Xu, X., Zhang, A., Park, S.,  Jiang,  H. and Liu, L. (2024). Simplified methods for variance estimation in microbiome abundance count data analysis. *Frontiers in Genetics*. Accepted.
+1. Shi, Y., Liu, L., Chen, J., Wylie, K., Wylie, T., Stout, M.,  Wang, C., **Zhang, H.**, Shih, T., Xu, X., Zhang, A., Park, S.,  Jiang,  H. and Liu, L. (2024). Simplified methods for variance estimation in microbiome abundance count data analysis. *Frontiers in Genetics*, 15:1458851. DOI: 10.3389/fgene.2024.1458851 
 
 1.  **Zhang, H.** (2024). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling: A Multidisciplinary Journal*. DOI:10.1080/10705511.2024.2392139 <a href="https://github.com/zhxmath/AdjMed"> [R package "AdjMed"]</a>.
    
