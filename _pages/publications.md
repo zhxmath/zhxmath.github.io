@@ -19,7 +19,9 @@ Preprints
  
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
-1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*.  Accepted.
+1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*.  DOI:10.1515/ijb-2024-0042
+
+1. Getz, K.R., Jeon, M.S., Liu, L., Liu, L., **Zhang, H.**, Luo, C., Luo, J. and Toriola, A. (2025). Metabolites and lipid species mediate the associations of adiposity in childhood and early adulthood with mammographic breast density in premenopausal women. *Breast Cancer Research*, 27, 1-12. 
 
 1.  **Zhang, H.** (2025). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling: A Multidisciplinary Journal*, 32, 93-104. <a href="https://github.com/zhxmath/AdjMed"> [R package "AdjMed"]</a>.
 
