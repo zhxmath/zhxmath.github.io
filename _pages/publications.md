@@ -19,6 +19,8 @@ Preprints
  
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
+1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, to appear
+   
 1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*.  DOI:10.1515/ijb-2024-0042
 
 1. Getz, K.R., Jeon, M.S., Liu, L., Liu, L., **Zhang, H.**, Luo, C., Luo, J. and Toriola, A. (2025). Metabolites and lipid species mediate the associations of adiposity in childhood and early adulthood with mammographic breast density in premenopausal women. *Breast Cancer Research*, 27, 1-12. 
