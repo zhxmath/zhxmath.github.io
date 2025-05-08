@@ -13,10 +13,7 @@ Preprints
    
 1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2024). HIMA: An R package for high-dimensional mediation analysis. *submitted*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
 
-1. Bai, X. and **Zhang, H.**# (2024). An online updating approach for estimating and testing mediation effects with big data streams. *arXiv:2411.03063*
 
-
- 
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, to appear
