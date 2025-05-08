@@ -20,6 +20,8 @@ Preprints
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, to appear
+
+1. Bai, X. and **Zhang, H.**# (2024). An online updating approach for estimating and testing mediation effects with big data streams. *Statistics and Computing*, to appear
    
 1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*.  DOI:10.1515/ijb-2024-0042
 
