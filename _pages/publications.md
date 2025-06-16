@@ -22,13 +22,8 @@ Publications <font size=2>(# indicates corresponding author)</font>
    
 1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*.  DOI:10.1515/ijb-2024-0042
 
-1. Getz, K.R., Jeon, M.S., Liu, L., Liu, L., **Zhang, H.**, Luo, C., Luo, J. and Toriola, A. (2025). Metabolites and lipid species mediate the associations of adiposity in childhood and early adulthood with mammographic breast density in premenopausal women. *Breast Cancer Research*, 27, 1-12. 
-
 1.  **Zhang, H.** (2025). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling: A Multidisciplinary Journal*, 32, 93-104. <a href="https://github.com/zhxmath/AdjMed"> [R package "AdjMed"]</a>.
 
-1. Shi, Y., Liu, L., Chen, J., Wylie, K., Wylie, T., Stout, M.,  Wang, C., **Zhang, H.**, Shih, T., Xu, X., Zhang, A., Park, S.,  Jiang,  H. and Liu, L. (2024). Simplified methods for variance estimation in microbiome abundance count data analysis. *Frontiers in Genetics*, 15:1458851. DOI: 10.3389/fgene.2024.1458851 
-
-   
 1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2024). An efficient testing procedure for high-dimensional mediators with FDR control. *Statistics in Biosciences*, DOI:10.1007/s12561-024-09447-4.  (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, DOI: 10.1093/bioinformatics/btae055
@@ -37,7 +32,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. An, M. and **Zhang, H.**# (2023). High-dimensional mediation analysis for time-to-event outcomes with additive hazards model. *Mathematics*, 11, 4891; DOI: 10.3390/math11244891. (The first author is a Master student under my supervision)
    
-
 1.  Shi, Y., Li, H., Wang, C., Chen, J., Jiang, H., Shih, T., **Zhang, H.**, Song, Y.,  Feng, Y. and Liu, L. (2023). A flexible quasi-likelihood model for microbiome abundance count data. *Statistics in Medicine*, 42, 4632-4643.
 
 1. Hou, L., **Zhang, H.**, Hou, Q. Guo, A., Wu, O., Zhang, J. and Yu, T. (2023).  SARW: Similarity-Aware random walk for GCN. *Intelligent Data Analysis*, 27, 1615-1636.
@@ -46,26 +40,17 @@ Publications <font size=2>(# indicates corresponding author)</font>
    
 1. Wang, T., **Zhang, H.**#  and Sun, L. (2023). Renewable learning for multiplicative regression model with streaming datasets. *Computational Statistics*. DOI: 10.1007/s00180-023-01360-6 (The first author is a Master student under my supervision)
 
-1. Zhang,  M., Zhang,  Y., Zhang, W.,  Zhao, L.,   Jing,  H., Wu, X., Guo, L.,  **Zhang, H.**, Zhang, Y., Zhu, S., Zhang, S.,  Zhang, X.  (2023). 
- Postponing colonoscopy for 6 months in high‐risk population increases colorectal cancer detection in China. *Cancer Medicine*, 12, 11816-11827. 
-
 1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Zheng, C., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
 
 1. **Zhang, H.**, Hou, L. and Liu, L. (2022) A review of high-dimensional mediation analyses in DNA methylation studies. In Guan, Weihua (Ed.), *Epigenome-Wide Association Studies: Methods and Protocols*, 2432, 123-135.
 
 1. Wang, T. and **Zhang, H.**# (2022). Optimal subsampling for multiplicative regression with massive data. *Statistica Neerlandica*, 76, 418-449. (The first author is a Master student under my supervision).
 
-1. Zheng, Y., Joyce, B., Hwang, S., Ma, J., Liu, L., Allen, N., Krefman, A., Wang, J., Gao, T., Nannini, D., **Zhang, H.**, Jacobs, D., et al. (2022). Association of cardiovascular health through young adulthood with genome-wide DNA methylation patterns in midlife: The Coronary Artery Risk Development in Young Adults (CARDIA) Study. *Circulation*, 146, 94-109.
-
-1. Zhang, M., Zhao, L., Zhang, Y., Jing, H., Wei, L., Li, Z., **Zhang, H.**, Zhang, Y., Zhu, S., Zhang, S. and Zhang, X. (2022). Colorectal cancer screening with high risk-factor questionnaire and fecal immunochemical tests among 5,947,986 asymptomatic population: a population-based study. *Frontiers in Oncology*. DOI: 10.3389/fonc.2022.893183
-
 1.  Liu, J. and **Zhang, H.**# (2022). First-order random coefficient INAR process with dependent counting series. *Communications in Statistics: Simulation and Computation*, 51, 3341-3354. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. *Scandinavian Journal of Statistics*, 49, 353-372.
 
 1. Li, C., **Zhang, H.**# and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
-
-1. Dang, Y., Wang, R., Qian, K., Lu, J., **Zhang, H.** and Zhang, Y. (2021). Clinical and radiological predictors of epidermal growth factor receptor mutation in nonsmall cell lung cancer. *Journal of Applied Clinical Medical Physics*, 22, 271-280.
 
 1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*. DOI: 10.1016/j.csda.2020.107072
 
@@ -94,8 +79,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1. **Zhang, H.**, Zheng, Y., Yoon, G., Zhang, Z., Gao, T., Joyce, B., Zhang, W., Schwartz, J., Vokonas, P., Colicino, E., Baccarelli, A., Hou, L. and Liu, L. (2017). Regularized estimation in sparse high-dimensional multivariate regression, with application to a DNA methylation study. *Statistical Applications in Genetics and Molecular Biology*, 16, 159-171.
 
 1. Fang, S., **Zhang, H.**#, Sun, L. and Wang, D. (2017). Analysis of panel count data with time-dependent covariates and informative observation process. *Acta Mathematicae Applicatae Sinica, English Series*,33, 147-156.
-
-1.  Yoon, G., Zheng, Y., Zhang, Z., **Zhang, H.**, Gao, T., Joyce, B., Zhang, W., Guan, W., Baccarelli, A., Jiang, W., Schwartz, J., Vokonas, P., Hou, L. and Liu, L. (2017). Ultra-high dimensional variable selection with application to normative aging study: DNA methylation and metabolic syndrome. *BMC Bioinformatics*, 18:156.
 
 1. Fang, S., **Zhang, H.** and Sun, L. (2016). Joint analysis of longitudinal data with additive mixed effect model for informative observation times. *Journal of Statistical Planning and Inference*,169, 43-55.
 
