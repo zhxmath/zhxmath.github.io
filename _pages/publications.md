@@ -11,11 +11,10 @@ Preprints
 ======
 1. **Zhang, H.** and Wang, H. (2024). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *arXiv:2409.14032*.
    
-1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2024). HIMA: An R package for high-dimensional mediation analysis. *submitted*. <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
-
-
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
+1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2025). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, accepted.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
+   
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, 26, 1-11
 
 1. Bai, X. and **Zhang, H.**# (2025). An online updating approach for estimating and testing mediation effects with big data streams. *Statistics and Computing*, 35, 1-17.(The first author is a Master student under my supervision).
