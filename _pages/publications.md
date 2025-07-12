@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ======
-1. **Zhang, H.** and Wang, H. (2024). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *arXiv:2409.14032*.
+1. **Zhang, H.** and Wang, H. (2025). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *arXiv:2409.14032*.
    
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
