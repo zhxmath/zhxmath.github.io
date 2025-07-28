@@ -13,7 +13,7 @@ Preprints
    
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
-1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2025). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, accepted.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
+1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2025). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, DOI: 10.6339/25-JDS1192.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
    
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, 26, 1-11
 
