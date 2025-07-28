@@ -109,4 +109,12 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator.  *Journal of Statistical Planning and Inference*,140, 667-683.
 
+Collaborative and Other Publications
+======
+1. Getz, K., Jeon, M., Liu, L., Liu, L., **Zhang, H.**, Luo. C.,  et al. (2025).  Metabolites and lipid species mediate the associations of adiposity in childhood and early adulthood with mammographic breast density in premenopausal women. *Breast Cancer Research*, 27, 1-12.
+1. Zhang, M., Zhang, Y., Zhang, W., Zhao, L., Jing, H., Wu, X., Guo, L., **Zhang, H.**, Zhang, Y., Zhu, S., Zhang, S., Zhang, X. (2023). Postponing colonoscopy for 6 months in high‐risk population increases colorectal cancer detection in China. *Cancer Medicine*, 12, 11816-11827.
+1. Zheng, Y., Joyce, B., Hwang, S., Ma, J., Liu, L., Allen, N., Krefman, A., Wang, J., Gao, T., Nannini, D., **Zhang, H.**, Jacobs, D., et al. (2022).  Association of cardiovascular health through young adulthood with genome-wide DNA methylation patterns in midlife: The Coronary Artery Risk Development in Young Adults (CARDIA) Study. *Circulation*, 146, 94-109.
+1. Zhang, M.,  Zhao, L., Zhang, Y., Jing, H., Wei, L.,  Li, Z.,  **Zhang, H.**,  Zhang, Y., Zhu, S., Zhang, S. and Zhang, X. (2022). Colorectal cancer screening with high risk-factor questionnaire and fecal immunochemical tests among 5,947,986 asymptomatic population: a population-based study. *Frontiers in Oncology*, 12, 1-19.
+1. Dang, Y., Wang, R., Qian, K., Lu, J.,  **Zhang, H.** and  Zhang, Y. (2021). Clinical and radiological predictors of epidermal growth factor receptor mutation in nonsmall cell lung cancer. *Journal of Applied Clinical Medical Physics*, 22, 271-280.
+
 
