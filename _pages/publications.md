@@ -29,6 +29,8 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*, 33, 276-288.
 
+1. Shi, Y., Liu, L., Chen, J., Wylie, K., Wylie, T., Stout, M., Wang, C., **Zhang, H.**, Shih, T., Xu, X., Zhang, A., Park, S., Jiang, H. and Liu, L. (2024). Simplified methods for variance estimation in microbiome abundance count data analysis. *Frontiers in Genetics*, 15, 1-22.
+
 1. An, M. and **Zhang, H.**# (2023). High-dimensional mediation analysis for time-to-event outcomes with additive hazards model. *Mathematics*, 11, 4891; DOI: 10.3390/math11244891. (The first author is a Master student under my supervision)
    
 1.  Shi, Y., Li, H., Wang, C., Chen, J., Jiang, H., Shih, T., **Zhang, H.**, Song, Y.,  Feng, Y. and Liu, L. (2023). A flexible quasi-likelihood model for microbiome abundance count data. *Statistics in Medicine*, 42, 4632-4643.
@@ -78,6 +80,8 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1. **Zhang, H.**, Zheng, Y., Yoon, G., Zhang, Z., Gao, T., Joyce, B., Zhang, W., Schwartz, J., Vokonas, P., Colicino, E., Baccarelli, A., Hou, L. and Liu, L. (2017). Regularized estimation in sparse high-dimensional multivariate regression, with application to a DNA methylation study. *Statistical Applications in Genetics and Molecular Biology*, 16, 159-171.
 
 1. Fang, S., **Zhang, H.**#, Sun, L. and Wang, D. (2017). Analysis of panel count data with time-dependent covariates and informative observation process. *Acta Mathematicae Applicatae Sinica, English Series*,33, 147-156.
+
+1. Yoon, G., Zheng, Y., Zhang, Z.,  **Zhang, H.**, Gao, T., Joyce, B., Zhang, W., Guan, W., Baccarelli, A., Jiang, W., Schwartz, J., Vokonas, P., Hou, L. and Liu, L. (2017). Ultra-high dimensional variable selection with application to normative aging study: DNA methylation and metabolic syndrome. *BMC Bioinformatics*, 18, 1-7.
 
 1. Fang, S., **Zhang, H.** and Sun, L. (2016). Joint analysis of longitudinal data with additive mixed effect model for informative observation times. *Journal of Statistical Planning and Inference*,169, 43-55.
 
