@@ -19,7 +19,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Bai, X. and **Zhang, H.**# (2025). An online updating approach for estimating and testing mediation effects with big data streams. *Statistics and Computing*, 35, 1-17.(The first author is a Master student under my supervision).
    
-1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*.  DOI:10.1515/ijb-2024-0042
+1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*, 21, 53-65.
 
 1.  **Zhang, H.** (2025). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling: A Multidisciplinary Journal*, 32, 93-104. <a href="https://github.com/zhxmath/AdjMed"> [R package "AdjMed"]</a>.
 
