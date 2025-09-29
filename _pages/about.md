@@ -11,6 +11,8 @@ I am an Associate Professor in the <a href="http://maths.tju.edu.cn/">School of 
 
 * *Mediation Analysis*
 * *Subsampling Methods for Big Data*
+* *Biostatistics and Medical Statistics*
+* *Integer-valued Time Series Analysis*
 
 **Address**: School of Mathematics, Tianjin University, Tianjin, 300350, China
 
