@@ -37,7 +37,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Hou, L., **Zhang, H.**, Hou, Q. Guo, A., Wu, O., Zhang, J. and Yu, T. (2023).  SARW: Similarity-Aware random walk for GCN. *Intelligent Data Analysis*, 27, 1615-1636.
    
-1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*,  DOI: 10.1007/s11222-023-10255-x
+1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*, 33, 1-16.
    
 1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Zheng, C., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
 
