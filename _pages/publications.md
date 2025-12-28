@@ -27,6 +27,8 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*, 33, 276-288.
 
+1. Wang, T., **Zhang, H.**#  and Sun, L. (2024). Renewable learning for multiplicative regression model with streaming datasets. *Computational Statistics*, 39, 1559–1586. (The first author is a Master student under my supervision)
+
 1. Shi, Y., Liu, L., Chen, J., Wylie, K., Wylie, T., Stout, M., Wang, C., **Zhang, H.**, Shih, T., Xu, X., Zhang, A., Park, S., Jiang, H. and Liu, L. (2024). Simplified methods for variance estimation in microbiome abundance count data analysis. *Frontiers in Genetics*, 15, 1-22.
 
 1. An, M. and **Zhang, H.**# (2023). High-dimensional mediation analysis for time-to-event outcomes with additive hazards model. *Mathematics*, 11, 1-11. (The first author is a Master student under my supervision)
@@ -37,8 +39,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
    
 1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*,  DOI: 10.1007/s11222-023-10255-x
    
-1. Wang, T., **Zhang, H.**#  and Sun, L. (2023). Renewable learning for multiplicative regression model with streaming datasets. *Computational Statistics*. DOI: 10.1007/s00180-023-01360-6 (The first author is a Master student under my supervision)
-
 1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Zheng, C., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
 
 1. **Zhang, H.**, Hou, L. and Liu, L. (2022) A review of high-dimensional mediation analyses in DNA methylation studies. In Guan, Weihua (Ed.), *Epigenome-Wide Association Studies: Methods and Protocols*, 2432, 123-135.
