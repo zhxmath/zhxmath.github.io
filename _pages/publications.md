@@ -51,7 +51,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Li, C., **Zhang, H.**# and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
 
-1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*. DOI: 10.1016/j.csda.2020.107072
+1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*, 153, 1-19.
 
 1. Zuo, L., **Zhang, H.**#, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
 
