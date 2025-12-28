@@ -29,7 +29,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Shi, Y., Liu, L., Chen, J., Wylie, K., Wylie, T., Stout, M., Wang, C., **Zhang, H.**, Shih, T., Xu, X., Zhang, A., Park, S., Jiang, H. and Liu, L. (2024). Simplified methods for variance estimation in microbiome abundance count data analysis. *Frontiers in Genetics*, 15, 1-22.
 
-1. An, M. and **Zhang, H.**# (2023). High-dimensional mediation analysis for time-to-event outcomes with additive hazards model. *Mathematics*, 11, 4891; DOI: 10.3390/math11244891. (The first author is a Master student under my supervision)
+1. An, M. and **Zhang, H.**# (2023). High-dimensional mediation analysis for time-to-event outcomes with additive hazards model. *Mathematics*, 11, 1-11. (The first author is a Master student under my supervision)
    
 1.  Shi, Y., Li, H., Wang, C., Chen, J., Jiang, H., Shih, T., **Zhang, H.**, Song, Y.,  Feng, Y. and Liu, L. (2023). A flexible quasi-likelihood model for microbiome abundance count data. *Statistics in Medicine*, 42, 4632-4643.
 
