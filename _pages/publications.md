@@ -75,9 +75,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Zhang, M.,  Zhao, L., Zhang, Y., Jing, H., Wei, L.,  Li, Z., **Zhang, H.**,  Zhang, Y., Zhu, S., Zhang, S. and Zhang, X. (2022). Colorectal cancer screening with high risk-factor questionnaire and fecal immunochemical tests among 5,947,986 asymptomatic population: a population-based study. *Frontiers in Oncology*,  12. 1-19.
 
-
-
-1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. DOI: 10.1016j.csda.2020.107015
+1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. 151, 1-12.
 
 1. Wang, X., Wang, D. and **Zhang, H.** (2020). Poisson autoregressive process modeling via the penalized conditional maximum likelihood procedure. *Statistical Papers*, 61, 245-260.
 
