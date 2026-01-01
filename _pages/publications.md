@@ -55,6 +55,8 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. Li, C., **Zhang, H.**# and Wang, D. (2022). Modelling and monitoring of INAR(1) process with geometrically inflated Poisson innovations. *Journal of Applied Statistics*, 49, 1821-1847.
 
+1. Zheng, Y., Joyce, B.,  Hwang, S., Ma, J., Liu, L., Allen, N., Krefman, A., Wang, J., Gao, T., Nannini, D., **Zhang, H.**, Jacobs, D., et al. (2022).  Association of cardiovascular health through young adulthood with genome-wide DNA methylation patterns in midlife: The Coronary Artery Risk Development in Young Adults (CARDIA) Study.  *Circulation*, 146, 94-109.
+
 1. **Zhang, H.** and Wang, H. (2021). Distributed subdata selection for big data via sampling-based approach. *Computational Statistics and Data Analysis*, 153, 1-19.
 
 1. Zuo, L., **Zhang, H.**#, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
