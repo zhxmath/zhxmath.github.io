@@ -71,6 +71,12 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Chen, J., Li, Z. and Liu, L. (2021). Testing for mediation effect with application to human microbiome data. *Statistics in Biosciences*, 13, 313-328.
 
+1. Dang, Y., Wang, R.,  Qian, K., Lu, J.,  **Zhang, H.** and  Zhang, Y. (2021). Clinical and radiological predictors of epidermal growth factor receptor mutation in nonsmall cell lung cancer.   *Journal of Applied Clinical Medical Physics*, 22, 271-280.
+
+1. Zhang, M.,  Zhao, L., Zhang, Y., Jing, H., Wei, L.,  Li, Z., **Zhang, H.**,  Zhang, Y., Zhu, S., Zhang, S. and Zhang, X. (2022). Colorectal cancer screening with high risk-factor questionnaire and fecal immunochemical tests among 5,947,986 asymptomatic population: a population-based study. *Frontiers in Oncology*,  12. 1-19.
+
+
+
 1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. DOI: 10.1016j.csda.2020.107015
 
 1. Wang, X., Wang, D. and **Zhang, H.** (2020). Poisson autoregressive process modeling via the penalized conditional maximum likelihood procedure. *Statistical Papers*, 61, 245-260.
