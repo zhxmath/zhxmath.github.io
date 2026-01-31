@@ -9,7 +9,7 @@ author_profile: true
 
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
-1. **Zhang, H.** and Wang, H. (2025). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*. accepted. 
+1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
    
 1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2025). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, DOI: 10.6339/25-JDS1192.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
    
