@@ -11,15 +11,13 @@ Publications <font size=2>(# indicates corresponding author)</font>
 ======
 1. **Zhang, H.** and Wang, H. (2026). Distributed subsampling strategy for partially linear additive models with massive data. *Communications in Mathematics and Statistics*, accepted.
    
-1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
-   
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, 26, 1-11
 
 1. Bai, X. and **Zhang, H.**# (2025). An online updating approach for estimating and testing mediation effects with big data streams. *Statistics and Computing*, 35, 1-17.(The first author is a Master student under my supervision).
    
 1. **Zhang, H.**, Li, Y. and Wang, H. (2025). DsubCox:  A fast subsampling algorithm for Cox model with distributed and massive survival data. *International Journal of Biostatistics*, 21, 53-65.
 
-1.  **Zhang, H.** (2025). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling: A Multidisciplinary Journal*, 32, 93-104. <a href="https://github.com/zhxmath/AdjMed"> [R package "AdjMed"]</a>.
+1.  **Zhang, H.** (2025). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling*, 32, 93-104. 
 
 1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2025). An efficient testing procedure for high-dimensional mediators with FDR control. *Statistics in Biosciences*, 17, 615–629.  (The first author is a Master student under my supervision).
 
