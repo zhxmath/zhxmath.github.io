@@ -54,11 +54,7 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Sun, L., Zhou, Y. and Huang, J. (2017). Oracle inequalities and selection consistency for weighted lasso in high-dimensional additive hazards model. *Statistica Sinica*, 27, 1903-1920.
 
-1. **Zhang, H.**, Zheng, Y., Yoon, G., Zhang, Z., Gao, T., Joyce, B., Zhang, W., Schwartz, J., Vokonas, P., Colicino, E., Baccarelli, A., Hou, L. and Liu, L. (2017). Regularized estimation in sparse high-dimensional multivariate regression, with application to a DNA methylation study. *Statistical Applications in Genetics and Molecular Biology*, 16, 159-171.
-
-
 1. **Zhang, H.**, Zheng, Y., Zhang, Z., Gao, T., Joyce, B., Yoon, G., Zhang, W., Schwartz, J., Just, A., Colicino, E., Vokonas, P., Zhao, L., Lv, J., Baccarelli, A., Hou, L. and Liu, L. (2016). Estimating and testing high-dimensional mediation effects in epigenetic studies. *Bioinformatics*, 32, 3150-3154.
-
 
 1. **Zhang, H.**, Zhao, H., Sun, J., Wang, D. and Kim, K. (2013). Regression analysis of multivariate panel count data with an informative observation process. *Journal of Multivariate Analysis*, 119, 71-80.
 
