@@ -19,15 +19,11 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1.  **Zhang, H.** (2025). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling*, 32, 93-104. 
 
-1. Bai,X., Zheng, Y., Hou, L., Zheng, C., Liu, L., and **Zhang, H.**# (2025). An efficient testing procedure for high-dimensional mediators with FDR control. *Statistics in Biosciences*, 17, 615–629.  (The first author is a Master student under my supervision).
-
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, 40, 1-8.
 
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*, 33, 276-288.
 
 1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive data. *Statistics and Computing*, 33, 1-16.
-
-1. Wang, T. and **Zhang, H.**# (2022). Optimal subsampling for multiplicative regression with massive data. *Statistica Neerlandica*, 76, 418-449. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. *Scandinavian Journal of Statistics*, 49, 353-372.
 
