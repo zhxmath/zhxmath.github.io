@@ -37,7 +37,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Wang, D. and Zhu, F. (2011). Empirical likelihood inference for random coefficient INAR(p) process. *Journal of Time Series Analysis*, 32, 195-203.
 
-1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator.  *Journal of Statistical Planning and Inference*,140, 667-683.
 
 
 
