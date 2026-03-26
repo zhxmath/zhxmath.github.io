@@ -37,7 +37,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Chen, J., Feng, Y., Wang, C., Li, H. and Liu, L. (2021). Mediation effect selection in high-dimensional and compositional microbiome data. *Statistics in Medicine*, 40, 885-896.
 
-
 1. **Zhang, H.**, Chen, J., Li, Z. and Liu, L. (2021). Testing for mediation effect with application to human microbiome data. *Statistics in Biosciences*, 13, 313-328.
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. 151, 1-12.
