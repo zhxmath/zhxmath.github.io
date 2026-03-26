@@ -15,7 +15,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*, 33, 276-288.
 
-1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. *Scandinavian Journal of Statistics*, 49, 353-372.
 
 1. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation analysis for survival data with high-dimensional mediators. *Bioinformatics*, 37,  3815-3821.
 
