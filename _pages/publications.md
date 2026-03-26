@@ -13,8 +13,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
    
 1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
    
-1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2025). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, DOI: 10.6339/25-JDS1192.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
-   
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, 26, 1-11
 
 1. Bai, X. and **Zhang, H.**# (2025). An online updating approach for estimating and testing mediation effects with big data streams. *Statistics and Computing*, 35, 1-17.(The first author is a Master student under my supervision).
@@ -50,8 +48,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2020). A rank-based approach to estimating monotone individualized two treatment regimes. *Computational Statistics and Data Analysis*. 151, 1-12.
 
-1. **Zhang, H.**#, Wang, D. and Sun, L. (2017). Regularized estimation in GINAR(p) process. *Journal of the Korean Statistical Society*, 46, 502-517.
-
 1. **Zhang, H.**, Sun, L., Zhou, Y. and Huang, J. (2017). Oracle inequalities and selection consistency for weighted lasso in high-dimensional additive hazards model. *Statistica Sinica*, 27, 1903-1920.
 
 1. **Zhang, H.**, Zheng, Y., Zhang, Z., Gao, T., Joyce, B., Yoon, G., Zhang, W., Schwartz, J., Just, A., Colicino, E., Vokonas, P., Zhao, L., Lv, J., Baccarelli, A., Hou, L. and Liu, L. (2016). Estimating and testing high-dimensional mediation effects in epigenetic studies. *Bioinformatics*, 32, 3150-3154.
@@ -60,7 +56,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 
 1. **Zhang, H.**, Sun, J. and Wang, D. (2013). Variable selection and estimation for multivariate panel count data via the seamless Lo penalty. *The Canadian Journal of Statistics*, 41, 368-385.
 
-   
 1. **Zhang, H.**, Wang, D. and Zhu, F. (2011). Empirical likelihood inference for random coefficient INAR(p) process. *Journal of Time Series Analysis*, 32, 195-203.
 
 1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator.  *Journal of Statistical Planning and Inference*,140, 667-683.
