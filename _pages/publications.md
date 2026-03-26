@@ -32,8 +32,6 @@ Publications <font size=2>(# indicates corresponding author)</font>
 1. Zuo, L., **Zhang, H.**#, Wang, H. and Liu, L. (2021). Sampling-based estimation for massive survival data with additive hazards model. *Statistics in Medicine*, 40, 441-450. (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation analysis for survival data with high-dimensional mediators. *Bioinformatics*, 37,  3815-3821.
-   
-1. Zuo, L., **Zhang, H.**# , Wang, H. and Sun, L. (2021). Optimal subsample selection for massive logistic regression with distributed data. *Computational Statistics*,  36, pages2535–2562.  (The first author is a Master student under my supervision).
 
 1. **Zhang, H.**, Chen, J., Feng, Y., Wang, C., Li, H. and Liu, L. (2021). Mediation effect selection in high-dimensional and compositional microbiome data. *Statistics in Medicine*, 40, 885-896.
 
