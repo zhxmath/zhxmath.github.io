@@ -9,7 +9,6 @@ author_profile: true
 
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
-1.  **Zhang, H.** (2025). Efficient adjusted joint significance test and Sobel-type confidence interval for mediation effect. *Structural Equation Modeling*, 32, 93-104. 
 
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, 40, 1-8.
 
