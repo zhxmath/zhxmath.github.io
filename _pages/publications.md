@@ -9,7 +9,12 @@ author_profile: true
 
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
+1. **Zhang, H.** and Wang, H. (2026). Distributed subsampling strategy for partially linear additive models with massive data. *Communications in Mathematics and Statistics*, accepted.
+   
+1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
 
+1. Bai, X. and **Zhang, H.**# (2025). An online updating approach for estimating and testing mediation effects with big data streams. *Statistics and Computing*, 35, 1-17.(The first author is a Master student under my supervision).
+      
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, 40, 1-8.
 
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*, 33, 276-288.
