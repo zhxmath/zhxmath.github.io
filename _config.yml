@@ -93,7 +93,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=PSsOGEsAAAAJ&hl=zh-CN"
-  email            : "haixiang.zhang@tju.edu.cn"
+  email            : #"haixiang.zhang@tju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
