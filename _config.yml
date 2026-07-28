@@ -92,8 +92,8 @@ author:
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=0bocpB8AAAAJ&hl=en"
-  email            : #"haixiang.zhang@tju.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=PSsOGEsAAAAJ&hl=zh-CN"
+  email            : "haixiang.zhang@tju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
