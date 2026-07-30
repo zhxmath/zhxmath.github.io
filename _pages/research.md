@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Overview
+
 
 My research focuses on developing statistical theories, computational
 methods, and scalable algorithms for complex biomedical and massive data
