@@ -320,3 +320,25 @@ body {
 .page__content strong {
   text-align: left;
 }
+
+/* Continuous numbering for publications */
+
+.publications ol {
+  counter-reset: publication-counter;
+  list-style: none;
+  padding-left: 0;
+}
+
+
+.publications ol li {
+  counter-increment: publication-counter;
+  margin-bottom: 1.2rem;
+}
+
+
+.publications ol li::before {
+  content: counter(publication-counter) ". ";
+  font-weight: 600;
+}
+
+
