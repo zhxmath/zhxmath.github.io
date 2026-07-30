@@ -4,7 +4,6 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-<div class="publications">
 {% include base_path %}
 
 Publications <font size=2>(# indicates corresponding author)</font>
@@ -152,4 +151,4 @@ For a complete and updated publication list, please visit my
 
 1. **Zhang, H.**, Wang, D. and Zhu, F. (2010). Inference for INAR(p) processes with signed generalized power series thinning operator.  *Journal of Statistical Planning and Inference*,140, 667-683.
 
-</div>
+
