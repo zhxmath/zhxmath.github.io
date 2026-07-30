@@ -11,7 +11,7 @@ I am an Associate Professor in the <a href="http://maths.tju.edu.cn/">School of 
 
 * *Mediation Analysis*
 * *Statistical Inference for Massive Data*
-#* *Statistical Theory for DNA Data Storage*
+<!--  * *Statistical Theory for DNA Data Storage* -->
 
 **Address**: School of Mathematics, Tianjin University, Tianjin, 300350, China
 
