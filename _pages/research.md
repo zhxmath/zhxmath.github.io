@@ -67,6 +67,7 @@ computational scalability.
 
 ---
 
+<!--
 # 3. Statistical Theory for DNA Data Storage
 
 
@@ -78,7 +79,7 @@ using synthetic DNA molecules.
 My research develops stochastic models and statistical inference methods
 for reliability analysis and optimization of DNA storage systems.
 
-
+-->
 
 
 
