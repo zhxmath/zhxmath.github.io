@@ -9,6 +9,10 @@ author_profile: true
 
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
+For a complete and updated publication list, please visit my
+[Google Scholar profile](https://scholar.google.com.hk/citations?user=PSsOGEsAAAAJ&hl=en).
+
+
 1. **Zhang, H.** and Wang, H. (2026). Distributed subsampling strategy for partially linear additive models with massive data. *Communications in Mathematics and Statistics*, accepted.
    
 1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
