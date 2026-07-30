@@ -15,7 +15,7 @@ The major research themes include:
 
 1. Mediation Analysis
 2. Statistical Inference for Massive Data
-3. Statistical Theory for DNA Data Storage
+
 
 
 ---
