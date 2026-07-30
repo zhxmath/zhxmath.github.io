@@ -294,9 +294,29 @@ body {
   }
 }
 
-/* Text justification */
+/* Text alignment for academic pages */
 
-.page__content p {
+.page__content p,
+.page__content li {
   text-align: justify;
   text-justify: inter-word;
+  line-height: 1.75;
+}
+
+/* Research cards */
+
+.research-card p,
+.software-card p {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.7;
+}
+
+/* Keep titles and publications readable */
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content strong {
+  text-align: left;
 }
