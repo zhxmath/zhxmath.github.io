@@ -35,13 +35,14 @@ For a complete and updated publication list, please visit my
    epigenetic studies. *Bioinformatics*, 32, 3150–3154.
 
 
-## 2026
+## All Publications
+**2026**
 1. **Zhang, H.** and Wang, H. (2026). Distributed subsampling strategy for partially linear additive models with massive data. *Communications in Mathematics and Statistics*, accepted.
    
 1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
    
 1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2026). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, DOI: 10.6339/25-JDS1192.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
-## 2025   
+**2025**  
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. *Briefings in Bioinformatics*, 26, 1-11
 
 1. Bai, X. and **Zhang, H.**# (2025). An online updating approach for estimating and testing mediation effects with big data streams. *Statistics and Computing*, 35, 1-17.(The first author is a Master student under my supervision).
@@ -54,8 +55,7 @@ For a complete and updated publication list, please visit my
 
 1. Getz, K.,   Jeon, M.,  Liu, L.,Liu, L.,  **Zhang, H.**,  Luo, C., Luo, J.,  and Toriola, A. (2025). Metabolites and lipid species mediate the associations of adiposity in childhood and early adulthood with mammographic breast density in premenopausal women. *Breast Cancer Research*, 27, 1-12.
 
-## 2024 
-
+**2024** 
 1. **Zhang, H.**, Hong, X., Zheng, Y., Hou, L., Zheng, C., Wang, X. and Liu, L. (2024). High-dimensional quantile mediation analysis with application to a birth cohort study of mother-newborn pairs.  *Bioinformatics*, 40, 1-8.
 
 1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial likelihood estimators via optimal subsampling. *Journal of Computational and Graphical Statistics*, 33, 276-288.
@@ -64,7 +64,7 @@ For a complete and updated publication list, please visit my
 
 1. Shi, Y., Liu, L., Chen, J., Wylie, K., Wylie, T., Stout, M., Wang, C., **Zhang, H.**, Shih, T., Xu, X., Zhang, A., Park, S., Jiang, H. and Liu, L. (2024). Simplified methods for variance estimation in microbiome abundance count data analysis. *Frontiers in Genetics*, 15, 1-22.
 
-## 2023 
+**2023** 
 1. An, M. and **Zhang, H.**# (2023). High-dimensional mediation analysis for time-to-event outcomes with additive hazards model. *Mathematics*, 11, 1-11. (The first author is a Master student under my supervision)
    
 1.  Shi, Y., Li, H., Wang, C., Chen, J., Jiang, H., Shih, T., **Zhang, H.**, Song, Y.,  Feng, Y. and Liu, L. (2023). A flexible quasi-likelihood model for microbiome abundance count data. *Statistics in Medicine*, 42, 4632-4643.
@@ -75,7 +75,7 @@ For a complete and updated publication list, please visit my
 
 1. Zhang, M., Zhang, Y., Zhang, W., Zhao, L., Jing, H., Wu, X., Guo, L., **Zhang, H.**, Zhang, Y., Zhu, S., Zhang, S., Zhang, X. (2023). Postponing colonoscopy for 6 months in high‐risk population increases colorectal cancer detection in China. *Cancer Medicine*, 12, 11816-11827.
 
-## 2022 and Earlier
+**2022 and Earlier**
    
 1. Perera, C.,**Zhang, H.**, Zheng, Y., Hou, L., Qu, A., Zheng, C., Xie, K. and Liu, L. (2022). HIMA2: high-dimensional mediation analysis and its application in epigenome-wide DNA methylation data. *BMC Bioinformatics*, 23:296.
 
