@@ -18,7 +18,9 @@ Education
 
 Positions and Employment
 ======
-* 12/2016 - present (Associate Professor)： Center for Applied Mathematics, Tianjin University, China
+* 06/2025 - present (Associate Professor)： School of Mathematics, Tianjin University, Tianjin
+  
+* 12/2016 - 05/2025 (Associate Professor)： Center for Applied Mathematics, Tianjin University, China
 
 *  4/2013 - 11/2016 (Assistant Professor):  School of Mathematics, Jilin University, China
   
