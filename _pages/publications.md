@@ -44,7 +44,7 @@ For a complete and updated publication list, please visit my
 1. **Zhang, H.**, Wang, D. and Zhu, F. (2011). Empirical likelihood inference for random coefficient INAR(p) process. ***Journal of Time Series Analysis***, 32, 195-203.
 
 
-## All Publications
+## Complete List of Publications
 1. **Zhang, H.** and Wang, H. (2026). Distributed subsampling strategy for partially linear additive models with massive data. *Communications in Mathematics and Statistics*, accepted.
    
 1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
