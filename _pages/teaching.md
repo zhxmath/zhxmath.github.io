@@ -8,5 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-* Theory of Probability 
-* Applied Multivariate Statistical Analysis 
+* Theory of Probability
+* Mathematical Statistics
+* Applied Multivariate Statistical Analysis
+* Multivariate Statistical Analysis and Its Engineering Applications
