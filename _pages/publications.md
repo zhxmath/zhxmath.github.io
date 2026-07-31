@@ -9,7 +9,7 @@ author_profile: true
 Publications <font size=2>(# indicates corresponding author)</font>
 ======
 For a complete and updated publication list, please visit my
-[Google Scholar profile](https://scholar.google.com.hk/citations?user=PSsOGEsAAAAJ&hl=en).
+[Google Scholar](https://scholar.google.com.hk/citations?user=PSsOGEsAAAAJ&hl=en).
 
 
 ## Selected Publications
