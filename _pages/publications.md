@@ -19,18 +19,18 @@ For a complete and updated publication list, please visit my
    (2024). High-dimensional quantile mediation analysis with application to a
    birth cohort study of mother-newborn pairs. *Bioinformatics*, 40, 1–8.
 
-2. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial
+1. **Zhang, H.**, Zuo, L., Wang, H. and Sun, L. (2024). Approximating partial
    likelihood estimators via optimal subsampling. *Journal of Computational
    and Graphical Statistics*, 33, 276–288.
 
-3. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive
+1. **Zhang, H.** and Li, X. (2023). A framework for mediation analysis with massive
    data. *Statistics and Computing*, 33, 1–16.
 
-4. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation
+1. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation
    analysis for survival data with high-dimensional mediators.
    *Bioinformatics*, 37, 3815–3821.
 
-5. **Zhang, H.**, Zheng, Y., Zhang, Z., Gao, T., Joyce, B., Yoon, G., et al.
+1. **Zhang, H.**, Zheng, Y., Zhang, Z., Gao, T., Joyce, B., Yoon, G., et al.
    (2016). Estimating and testing high-dimensional mediation effects in
    epigenetic studies. *Bioinformatics*, 32, 3150–3154.
 
