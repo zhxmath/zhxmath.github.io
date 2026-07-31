@@ -28,6 +28,8 @@ For a complete and updated publication list, please visit my
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. *Scandinavian Journal of Statistics*, 49, 353-372.
 
+1. **Zhang, H.**, Chen, J., Feng, Y., Wang, C., Li, H. and Liu, L. (2021). Mediation effect selection in high-dimensional and compositional microbiome data. *Statistics in Medicine*, 40, 885-896.
+
 1. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation
    analysis for survival data with high-dimensional mediators.
    *Bioinformatics*, 37, 3815–3821.
