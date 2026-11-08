@@ -28,7 +28,6 @@ For a complete and updated publication list, please visit my
 
 1. **Zhang, H.**, Huang, J. and Sun, L. (2022). Projection-based and cross-validated estimation in high-dimensional Cox model. ***Scandinavian Journal of Statistics***, 49, 353-372.
 
-
 1. **Zhang, H.**, Zheng, Y., Hou, L., Zheng, C. and Liu, L. (2021). Mediation
    analysis for survival data with high-dimensional mediators.
    ***Bioinformatics***, 37, 3815–3821.
@@ -49,7 +48,7 @@ For a complete and updated publication list, please visit my
    
 1. **Zhang, H.** and Wang, H. (2026). Refitted cross-validation estimation for high-dimensional subsamples from low-dimension full data. *Computational Statistics*, 41, 1-15.
    
-1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2026). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, DOI: 10.6339/25-JDS1192.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
+1.  **Zhang, H.**, Zheng, Y., Hou, L. and Liu, L. (2026). HIMA: An R package for high-dimensional mediation analysis. *Journal of Data Science*, 24，822–836.  <a href="https://CRAN.R-project.org/package=HIMA"> [R package "HIMA"]</a>.
     
 1. Liu, L., **Zhang, H.**, Zhang, K., Zheng, Y., Gao, T., Zheng, C., Hou, L., Liu, L. (2025). High-dimensional mediation analysis for longitudinal mediators and survival outcomes. ***Briefings in Bioinformatics***, 26, 1-11
 
